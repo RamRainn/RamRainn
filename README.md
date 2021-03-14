@@ -3,7 +3,7 @@
 <!--
 **RamRainn/RamRainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![HTML](https://img.shields.io/badge/-HTML?style=for-the-badge&logo=html5)
+![html](https://img.shields.io/badge/-HTML-FFF?style=for-the-badge&logo=html5)
 
 Here are some ideas to get you started:
 
